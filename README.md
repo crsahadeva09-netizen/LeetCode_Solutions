@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
