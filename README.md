@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
