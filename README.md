@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
@@ -97,5 +98,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
