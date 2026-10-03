@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -115,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
