@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0728-self-dividing-numbers](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
