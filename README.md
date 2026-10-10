@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0047-permutations-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1652-defuse-the-bomb](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bracket Sequences
 |  |
