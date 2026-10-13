@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0728-self-dividing-numbers](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [1652-defuse-the-bomb](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -149,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0299-bulls-and-cows) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
