@@ -10,6 +10,9 @@ class Solution {
         }
 
         for(int i=idx; i<end; i++){
+
+            boolean swap = true;
+
             int temp = nums[i];
             nums[i] = nums[idx];
             nums[idx] = temp;
