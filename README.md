@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
