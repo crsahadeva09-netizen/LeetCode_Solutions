@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0299-bulls-and-cows](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0678-valid-parenthesis-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
