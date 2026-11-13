@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 | [0367-valid-perfect-square](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0299-bulls-and-cows](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0402-remove-k-digits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+| [0415-add-strings](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0415-add-strings) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
