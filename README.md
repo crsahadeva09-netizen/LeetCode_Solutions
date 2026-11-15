@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0078-subsets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
