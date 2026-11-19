@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0728-self-dividing-numbers](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0728-self-dividing-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1154-day-of-the-year](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1154-day-of-the-year](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1154-day-of-the-year) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
