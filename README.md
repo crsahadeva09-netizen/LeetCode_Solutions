@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
