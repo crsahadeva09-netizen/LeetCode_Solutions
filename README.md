@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/crsahadeva09-netizen/LeetCode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
